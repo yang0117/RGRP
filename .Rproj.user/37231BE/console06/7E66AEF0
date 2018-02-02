@@ -180,3 +180,65 @@ To github.com:yang0117/RGRP.git
    3127e70..d1429fc  master -> master
 Branch master set up to track remote branch master from origin.
 ]0;~/Dropbox/projects/RGRP[36myangyang[m@[32mYangs-MacBook-Pro:[33;1m~/Dropbox/projects/RGRP[m$ gj[Kit add -A
+]0;~/Dropbox/projects/RGRP[36myangyang[m@[32mYangs-MacBook-Pro:[33;1m~/Dropbox/projects/RGRP[m$ git commit -m ""b"a"g"e"[1P"d"e"
+[master 69cc72c] bagde
+ 6 files changed, 63 insertions(+), 1 deletion(-)
+ create mode 100644 .Rproj.user/37231BE/sources/prop/A1D1687F
+ create mode 100644 .Rproj.user/37231BE/sources/s-FB44480B/A5FF94C1
+ create mode 100644 .Rproj.user/37231BE/sources/s-FB44480B/A5FF94C1-contents
+ create mode 100644 README.md
+]0;~/Dropbox/projects/RGRP[36myangyang[m@[32mYangs-MacBook-Pro:[33;1m~/Dropbox/projects/RGRP[m$ git push -u origin master
+Counting objects: 13, done.
+Delta compression using up to 8 threads.
+Compressing objects:   7% (1/13)   Compressing objects:  15% (2/13)   Compressing objects:  23% (3/13)   Compressing objects:  30% (4/13)   Compressing objects:  38% (5/13)   Compressing objects:  46% (6/13)   Compressing objects:  53% (7/13)   Compressing objects:  61% (8/13)   Compressing objects:  69% (9/13)   Compressing objects:  76% (10/13)   Compressing objects:  84% (11/13)   Compressing objects:  92% (12/13)   Compressing objects: 100% (13/13)   Compressing objects: 100% (13/13), done.
+Writing objects:   7% (1/13)   Writing objects:  15% (2/13)   Writing objects:  23% (3/13)   Writing objects:  30% (4/13)   Writing objects:  38% (5/13)   Writing objects:  46% (6/13)   Writing objects:  53% (7/13)   Writing objects:  61% (8/13)   Writing objects:  69% (9/13)   Writing objects:  76% (10/13)   Writing objects:  84% (11/13)   Writing objects:  92% (12/13)   Writing objects: 100% (13/13)   Writing objects: 100% (13/13), 1.96 KiB | 1.96 MiB/s, done.
+Total 13 (delta 6), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/6)   [Kremote: Resolving deltas:  16% (1/6)   [Kremote: Resolving deltas:  33% (2/6)   [Kremote: Resolving deltas:  50% (3/6)   [Kremote: Resolving deltas:  66% (4/6)   [Kremote: Resolving deltas:  83% (5/6)   [Kremote: Resolving deltas: 100% (6/6)   [Kremote: Resolving deltas: 100% (6/6), completed with 6 local objects.[K
+To github.com:yang0117/RGRP.git
+   d1429fc..69cc72c  master -> master
+Branch master set up to track remote branch master from origin.
+[K[36myangyang[m@[32mYangs-MacBook-Pro:[33;1m~/Dropbox/projects/RGRP[m$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rhistory[m
+	[31mmodified:   .Rproj.user/37231BE/.DS_Store[m
+	[31mmodified:   .Rproj.user/37231BE/console06/7E66AEF0[m
+	[31mmodified:   .Rproj.user/37231BE/console06/INDEX001[m
+	[31mmodified:   .Rproj.user/37231BE/pcs/files-pane.pper[m
+	[31mmodified:   .Rproj.user/37231BE/pcs/source-pane.pper[m
+	[31mmodified:   .Rproj.user/37231BE/pcs/windowlayoutstate.pper[m
+	[31mmodified:   .Rproj.user/37231BE/pcs/workbench-pane.pper[m
+	[31mmodified:   .Rproj.user/37231BE/sources/prop/63DCCBAA[m
+	[31mmodified:   .Rproj.user/37231BE/sources/prop/AE82C209[m
+	[31mmodified:   .Rproj.user/37231BE/sources/prop/B26F9C63[m
+	[31mmodified:   .Rproj.user/37231BE/sources/prop/E1C8353C[m
+	[31mmodified:   .Rproj.user/37231BE/sources/prop/E330DFBD[m
+	[31mmodified:   .Rproj.user/37231BE/sources/prop/INDEX[m
+	[31mdeleted:    .Rproj.user/37231BE/sources/s-FB44480B/1C87CEF4[m
+	[31mdeleted:    .Rproj.user/37231BE/sources/s-FB44480B/1C87CEF4-contents[m
+	[31mdeleted:    .Rproj.user/37231BE/sources/s-FB44480B/269C855B[m
+	[31mdeleted:    .Rproj.user/37231BE/sources/s-FB44480B/269C855B-contents[m
+	[31mdeleted:    .Rproj.user/37231BE/sources/s-FB44480B/3CF40A46-contents[m
+	[31mdeleted:    .Rproj.user/37231BE/sources/s-FB44480B/63F4617F-contents[m
+	[31mdeleted:    .Rproj.user/37231BE/sources/s-FB44480B/6C2EC245-contents[m
+	[31mdeleted:    .Rproj.user/37231BE/sources/s-FB44480B/A5FF94C1[m
+	[31mdeleted:    .Rproj.user/37231BE/sources/s-FB44480B/A5FF94C1-contents[m
+	[31mdeleted:    .Rproj.user/37231BE/sources/s-FB44480B/B67BEA28-contents[m
+	[31mdeleted:    .Rproj.user/37231BE/sources/s-FB44480B/BC5D0EBA-contents[m
+	[31mdeleted:    .Rproj.user/37231BE/sources/s-FB44480B/lock_file[m
+	[31mmodified:   .Rproj.user/shared/notebooks/paths[m
+	[31mmodified:   .gitignore[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.DS_Store[m
+	[31mints/[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Dropbox/projects/RGRP[36myangyang[m@[32mYangs-MacBook-Pro:[33;1m~/Dropbox/projects/RGRP[m$ git add -A
