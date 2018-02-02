@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517546500935.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "269C855B",
+    "lastKnownWriteTime" : 1517546541,
+    "last_content_update" : 1517546541071,
+    "path" : "~/Dropbox/projects/RGRP/tests/testthat/test_demo.R",
+    "project_path" : "tests/testthat/test_demo.R",
+    "properties" : {
+        "cursorPosition" : "2,32",
+        "marks" : "<:0,0\n>:5,-1",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
